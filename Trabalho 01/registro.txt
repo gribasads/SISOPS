@@ -1,0 +1,4 @@
+
+Tempo total FCFS: 0.0030
+Tempo total Round Robin: 0.0020
+
